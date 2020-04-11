@@ -1,4 +1,4 @@
 # windows-termina-settings
-windows terminal settings
+windows termina settings
 
-![image](terminal.PNG)
+![image](termina.PNG)
